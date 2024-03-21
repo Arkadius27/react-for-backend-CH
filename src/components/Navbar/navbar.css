@@ -1,0 +1,11 @@
+.navbar {
+  position: relative;
+}
+.navbar-brand img {
+  height: 55px;
+}
+.registration-container {
+  display: flex;
+  position: absolute;
+  right: 0;
+}
